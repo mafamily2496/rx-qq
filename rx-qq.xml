@@ -1,0 +1,184 @@
+<prescriptions xmlns="http://greenify.github.io/schemas/prescription/v2">
+	<prescription type="service" sender="any" package="com.tencent.mobileqq" class="com.tencent.av.service.AVServiceForQQ">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.tencent.mobileqq" class="com.tencent.mobileqq.ar.ArConfigService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.tencent.mobileqq" class="com.tencent.mobileqq.contactsync.authenticator.AuthenticationService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.tencent.mobileqq" class="cooperation.smartdevice.ipc.BluetoothLeProxyService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.tencent.mobileqq" class="com.tencent.device.qfind.BluetoothLeService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.tencent.mobileqq" class="cooperation.buscard.BuscardProxyService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.tencent.mobileqq" class="com.qihoo.util.CommonService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.tencent.mobileqq" class="com.qihoo.util.CommonService2">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.tencent.mobileqq" class="com.tencent.mobileqq.nearby.ipc.ConnectNearbyProcService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.tencent.mobileqq" class="com.tencent.mobileqq.service.contactsync.ContactSyncPluginProxyService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.tencent.mobileqq" class="cooperation.qqdataline.ipc.DatalineProxyService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.tencent.mobileqq" class="com.tencent.pluginloader.proxy.DownloadProxyService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.tencent.mobileqq" class="com.tencent.proxyinner.plugin.loader.FakaForgroundProxyService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.tencent.mobileqq" class="cooperation.groupvideo.GVideoProxyService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.tencent.mobileqq" class="cooperation.groupvideo.GVideoProxyUtilService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.tencent.mobileqq" class="cooperation.groupvideo.GVideoSmallScreenProxyService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.tencent.mobileqq" class="cooperation.huangye.ipc.HYProxyService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.tencent.mobileqq" class="com.tencent.imageservice.ImageProcessService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.tencent.mobileqq" class="com.tencent.bitapp.pre.binder.server.Java2JniService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.tencent.mobileqq" class="com.tencent.mobileqq.mobilemp.MobileMpUploadService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.tencent.mobileqq" class="com.tencent.proxyinner.plugin.loader.NowQTServiceProxy">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.tencent.mobileqq" class="com.tencent.mobileqq.vashealth.PathTraceService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.tencent.mobileqq" class="com.tencent.mobileqq.vashealth.PathTraceService$KernelService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.tencent.mobileqq" class="com.tencent.mobileqq.activity.photo.PeakService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.tencent.mobileqq" class="cooperation.photoplus.PhotoplusPluginProxyService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.tencent.mobileqq" class="com.tencent.intervideo.sixgodcontainer.proxyactivitys.PluginDefaultProxyService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.tencent.mobileqq" class="com.tencent.mobileqq.activity.PreloadWebService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.tencent.mobileqq" class="com.tencent.av.smallscreen.PstnSmallScreenService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.tencent.mobileqq" class="com.tencent.mobileqq.qipc.QIPCServiceEx">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.tencent.mobileqq" class="cooperation.qqindividuality.ipc.QQIndividualityPluginProxyService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.tencent.mobileqq" class="cooperation.qqpim.QQPimPluginProxyService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.tencent.mobileqq" class="com.tencent.mobileqq.music.QQPlayerService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.tencent.mobileqq" class="com.tencent.av.service.QQServiceForAV">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.tencent.mobileqq" class="cooperation.qqwifi.QQWiFiAssistService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.tencent.mobileqq" class="com.tencent.proxyinner.plugin.loader.QTProxyService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.tencent.mobileqq" class="cooperation.qzone.video.QZoneLiveVideoPluginProxyService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.tencent.mobileqq" class="cooperation.qzone.plugin.QZonePatchService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.tencent.mobileqq" class="com.qihoo.util.QhJobService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.tencent.mobileqq" class="cooperation.qlink.QlinkPluginProxyService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.tencent.mobileqq" class="cooperation.qzone.QzonePictureViewerProxyService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.tencent.mobileqq" class="cooperation.qzone.video.QzoneVideoPluginProxyService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.tencent.mobileqq" class="cooperation.qzone.remote.logic.QzoneWebPluginProxyService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.tencent.mobileqq" class="com.tencent.biz.qqstory.takevideo.rmw.RMWService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.tencent.mobileqq" class="com.tencent.mobileqq.richmedia.RichmediaService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.tencent.mobileqq" class="cooperation.secmsg.SecMessagerService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.tencent.mobileqq" class="com.tencent.securemodule.impl.SecureService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.tencent.mobileqq" class="com.tencent.av.smallscreen.SmallScreenService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.tencent.mobileqq" class="cooperation.smartdevice.ipc.SmartDeviceProxyService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.tencent.mobileqq" class="com.qihoo.ls.SoService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.tencent.mobileqq" class="com.tencent.mobileqq.contactsync.syncadapter.SyncService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.tencent.mobileqq" class="cooperation.troop_homework.ipc.TroopHomeworkProxyService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.tencent.mobileqq" class="com.tencent.biz.troop.TroopMemberApiService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.tencent.mobileqq" class="com.tencent.av.service.UtilsServiceForAV">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.tencent.mobileqq" class="cooperation.comic.VipComicProxyService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.tencent.mobileqq" class="com.tencent.proxyinner.plugin.loader.WNSProxyService">
+ 	</prescription>
+	<prescription type="broadcast" sender="any" package="com.tencent.mobileqq" class="com.tencent.mobileqq.armap.wealthgod.ARMapThreadStubReceiver">
+ 	</prescription>
+	<prescription type="broadcast" sender="any" package="com.tencent.mobileqq" class="com.tencent.open.business.base.appreport.AppReportReceiver">
+ 	</prescription>
+	<prescription type="broadcast" sender="any" package="com.tencent.mobileqq" class="com.tencent.mobileqq.servlet.ClearPushReceiver">
+ 	</prescription>
+	<prescription type="broadcast" sender="any" package="com.tencent.mobileqq" class="com.qihoo.util.CommonReceiver">
+ 	</prescription>
+	<prescription type="broadcast" sender="any" package="com.tencent.mobileqq" class="cooperation.dingdong.DingdongPluginProxyBroadcastReceiver">
+ 	</prescription>
+	<prescription type="broadcast" sender="any" package="com.tencent.mobileqq" class="com.tencent.open.downloadnew.common.DownloadReceiver">
+ 	</prescription>
+	<prescription type="broadcast" sender="any" package="com.tencent.mobileqq" class="com.tencent.open.downloadnew.common.DownloadReceiverWebProcess">
+ 	</prescription>
+	<prescription type="broadcast" sender="any" package="com.tencent.mobileqq" class="com.tencent.mobileqq.earlydownload.EarlyDownloadReceiver">
+ 	</prescription>
+	<prescription type="broadcast" sender="any" package="com.tencent.mobileqq" class="com.tencent.mobileqq.nearby.NearbyReceiver">
+ 	</prescription>
+	<prescription type="broadcast" sender="any" package="com.tencent.mobileqq" class="com.tencent.mobileqq.msf.core.NetConnInfoCenter">
+ 	</prescription>
+	<prescription type="broadcast" sender="any" package="com.tencent.mobileqq" class="cooperation.qzone.NotificationClickReceiver">
+ 	</prescription>
+	<prescription type="broadcast" sender="any" package="com.tencent.mobileqq" class="com.tencent.mobileqq.app.NotificationDeleteReceiver">
+ 	</prescription>
+	<prescription type="broadcast" sender="any" package="com.tencent.mobileqq" class="cooperation.photoedit.PhotoEditProxyReceiver">
+ 	</prescription>
+	<prescription type="broadcast" sender="any" package="com.tencent.mobileqq" class="cooperation.plugin.PluginCrashReceiver">
+ 	</prescription>
+	<prescription type="broadcast" sender="any" package="com.tencent.mobileqq" class="com.tencent.sc.appwidget.QCenterWidgetProvider">
+ 	</prescription>
+	<prescription type="broadcast" sender="any" package="com.tencent.mobileqq" class="mqq.app.QQBroadcastReceiver">
+ 	</prescription>
+	<prescription type="broadcast" sender="any" package="com.tencent.mobileqq" class="cooperation.qqreader.QRAioCmdReceiver">
+ 	</prescription>
+	<prescription type="broadcast" sender="any" package="com.tencent.mobileqq" class="cooperation.qwallet.plugin.QWalletProxyReceiver">
+ 	</prescription>
+	<prescription type="broadcast" sender="any" package="com.tencent.mobileqq" class="cooperation.qqfav.QfavPluginProxyReceiver">
+ 	</prescription>
+	<prescription type="broadcast" sender="any" package="com.tencent.mobileqq" class="cooperation.qzone.QzoneProxyReceiver">
+ 	</prescription>
+	<prescription type="broadcast" sender="any" package="com.tencent.mobileqq" class="com.tencent.mfsdk.reporter.ROReceiver">
+ 	</prescription>
+	<prescription type="broadcast" sender="any" package="com.tencent.mobileqq" class="com.tencent.mobileqq.redtouch.RedPointBroadcastReceiver">
+ 	</prescription>
+	<prescription type="broadcast" sender="any" package="com.tencent.mobileqq" class="com.tencent.mobileqq.statistics.ReportReceiver">
+ 	</prescription>
+	<prescription type="broadcast" sender="any" package="com.tencent.mobileqq" class="com.tencent.mobileqq.scanfu.activity.ScanFuthreadStubReceiver">
+ 	</prescription>
+	<prescription type="broadcast" sender="any" package="com.tencent.mobileqq" class="com.tencent.securemodule.ui.SecureEventReceiver">
+ 	</prescription>
+	<prescription type="broadcast" sender="any" package="com.tencent.mobileqq" class="com.tencent.biz.qqstory.notification.StoryMsgNotificationReceiver">
+ 	</prescription>
+	<prescription type="broadcast" sender="any" package="com.tencent.mobileqq" class="com.tencent.mobileqq.vas.ThemeChangeBroadcastReceiver">
+ 	</prescription>
+	<prescription type="broadcast" sender="any" package="com.tencent.mobileqq" class="cooperation.troop_homework.TroopHomeworkProxyReceiver">
+ 	</prescription>
+	<prescription type="broadcast" sender="any" package="com.tencent.mobileqq" class="com.tencent.mobileqq.statistics.UECReceiver">
+ 	</prescription>
+	<prescription type="broadcast" sender="any" package="com.tencent.mobileqq" class="com.tencent.mobileqq.filemanager.core.UniformDownloadNfnReceiver">
+ 	</prescription>
+	<prescription type="broadcast" sender="any" package="com.tencent.mobileqq" class="com.tencent.mobileqq.activity.qwallet.report.VACDReportReceiver">
+ 	</prescription>
+	<prescription type="broadcast" sender="any" package="com.tencent.mobileqq" class="com.tencent.av.VideoMsgBroadcastReceiver">
+ 	</prescription>
+	<prescription type="broadcast" sender="any" package="com.tencent.mobileqq" class="cooperation.comic.VipProxyPreLoadComicProcess">
+ 	</prescription>
+	<prescription type="broadcast" sender="any" package="com.tencent.mobileqq" class="cooperation.qqreader.VipProxyRreLoadReaderProcess">
+ 	</prescription>
+	<prescription type="broadcast" sender="any" package="com.tencent.mobileqq" class="com.tencent.mobileqq.webprocess.WebProcessReceiver">
+ 	</prescription>
+	<prescription type="broadcast" sender="any" package="com.tencent.mobileqq" class="cooperation.weiyun.WeiyunProxyBroadcastReceiver">
+ 	</prescription>
+</prescriptions>
